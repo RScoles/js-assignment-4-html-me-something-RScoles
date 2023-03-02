@@ -1,1 +1,39 @@
-/* Write your CSS here! */
+p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  .images { 
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  #irishRed{
+    max-height: 300px;
+  }
+  #irishStout{
+    max-height: 400px;
+  }
+
+  #irishExtra{
+    max-height: 500px;
+  }
+
+  h2{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+  h1 {
+    text-align: center;
+    color:rgb(35, 122, 35)
+  }
+  body{
+    display: block;
+    margin: 8px;
+    background-color: rgb(225, 221, 216);
+  }
