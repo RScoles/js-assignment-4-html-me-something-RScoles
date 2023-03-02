@@ -28,12 +28,15 @@ p {
     padding-bottom: 50px;
     padding-left: 80px;
   }
-  h1 {
+  #mainHeading {
     text-align: center;
-    color:rgb(35, 122, 35)
+    color:red
   }
   body{
     display: block;
     margin: 8px;
     background-color: rgb(225, 221, 216);
+  }
+  #funParagragh{
+    color:green;
   }
